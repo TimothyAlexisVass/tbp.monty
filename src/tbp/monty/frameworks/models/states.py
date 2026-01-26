@@ -27,7 +27,7 @@ class State:
 
     States are represented in this format but can be interpreted by the receiver in
     different ways:
-       Observed states: states output py sensor modules
+       Observed states: states output by sensor modules
        Hypothesized states: states output by learning modules
        Goal states: motor output of learning modules
 
